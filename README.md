@@ -153,25 +153,4 @@ For a detailed discussion of the experiments and quantitative results, see the p
 * Marta Guzman Alarcón: [martaga@kth.se](mailto:martaga@kth.se)
 
 ### My Contribution
-
-## My Contribution
-
-I focused on the data pipeline and feature engineering. I implemented a strict chronological 
-
-train/test split to prevent data leakage and led the strategy to handle the heavy class imbalance 
-
-(>90% positive). I also built the core feature extraction functions used to feed our Random Forest 
-
-model, including local node behaviour features (e.g. out-degree, in-degree, and mean rating 
-
-given/received, capturing each user's individual reputation) and sociological structure features 
-
-based on Balance Theory (common-neighbour sign consistency) and Status Theory (status differential 
-
-between source and target).
-
-## My Contribution
-
-
-
 I focused on the data pipeline and feature engineering. I implemented a strict chronological train/test split to prevent data leakage and led the strategy to handle the heavy class imbalance (>90% positive). I also built the core feature extraction functions used to feed our Random Forest model, including local node behaviour features and sociological structure features based on Balance Theory and Status Theory.

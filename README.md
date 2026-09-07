@@ -150,5 +150,9 @@ For a detailed discussion of the experiments and quantitative results, see the p
 * Bilal Soussane:       [soussane@kth.se](mailto:soussane@kth.se) 
 * Edoardo F. A. de Cal: [efadc@kth.se](mailto:efadc@kth.se)       
 * Giorgia Savo:         [giorgias@kth.se](mailto:giorgias@kth.se) 
-* Marta Guzman Alarcón: [martaga@kth.se](mailto:martaga@kth.se)   
+* Marta Guzman Alarcón: [martaga@kth.se](mailto:martaga@kth.se)
+
+## My Contribution
+
+I focused on the data pipeline and feature engineering. I implemented a strict chronological train/test split to prevent data leakage and led the strategy to handle the heavy class imbalance (>90% positive), ensuring the model could actually detect rare "distrust" cases. I also built the core feature extraction functions—including historical node metrics, Balance Theory, and Status Theory features—to feed our Random Forest model.
 

@@ -8,7 +8,7 @@ June 2026
 * Teaching Assistant: [**Rémi Bourgerie**](https://www.kth.se/profile/remibo)
 
 ## Deliverables
-- 📑 [Project Report](deliverables/project_report.pdf)
+- 📑 [Project Report](https://github.com/MartaGuzmanAlcon/bitcoin-trust-signed-network-prediction/raw/main/deliverables/project_report.pdf)
 - 🚩 [Project Milestone Report](deliverables/project_milestone.pdf)
 - 🔗 [Project Code](deliverables/ID2211_code.ipynb)
 
